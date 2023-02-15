@@ -1,3 +1,3 @@
-var begin ="Ceci est le debut";
-var end ="Ceci est la fin";
-console.log(begin+' '+end);
+
+var myStr='This is the start'+' '+'This is the end';
+console.log(myStr);
